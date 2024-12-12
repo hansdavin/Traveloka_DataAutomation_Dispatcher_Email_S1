@@ -1,5 +1,5 @@
 {
-  "name": "Traveloka_DataAutomation_Dispatcher_Email_S1",
+  "name": "Traveloka_DataAutomation_Dispatcher_Email",
   "projectId": "d178a9eb-3425-4832-ba0a-f564d60aea68",
   "description": "Blank Process",
   "main": "Main.xaml",
@@ -15,7 +15,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.0.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
